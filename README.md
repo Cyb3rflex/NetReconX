@@ -105,4 +105,7 @@ This tool is for educational and authorized security testing only. Usage on targ
 - Built with ❤️ in Termux.
 
 ---
-# NetReconX
+
+# Author
+
+@Cyb3rflex

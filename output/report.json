@@ -1,0 +1,50 @@
+{
+    "whois": {
+        "domain_name": "GITHUB.COM",
+        "registrar": "MarkMonitor, Inc.",
+        "creation_date": "[datetime.datetime(2007, 10, 9, 18, 20, 50), datetime.datetime(2007, 10, 9, 18, 20, 50, tzinfo=datetime.timezone.utc)]",
+        "expiration_date": "[datetime.datetime(2026, 10, 9, 18, 20, 50), datetime.datetime(2026, 10, 9, 0, 0, tzinfo=datetime.timezone.utc)]",
+        "name_servers": [
+            "DNS1.P08.NSONE.NET",
+            "DNS2.P08.NSONE.NET",
+            "DNS3.P08.NSONE.NET",
+            "DNS4.P08.NSONE.NET",
+            "NS-1283.AWSDNS-32.ORG",
+            "NS-1707.AWSDNS-21.CO.UK",
+            "NS-421.AWSDNS-52.COM",
+            "NS-520.AWSDNS-01.NET"
+        ],
+        "emails": [
+            "abusecomplaints@markmonitor.com",
+            "whoisrequest@markmonitor.com"
+        ]
+    },
+    "ip_lookup": {
+        "ip": null,
+        "city": null,
+        "region": null,
+        "country": null,
+        "org": null,
+        "asn": null,
+        "timezone": null
+    },
+    "port_scan": {
+        "open_ports": [
+            443,
+            22,
+            80
+        ]
+    },
+    "dns_records": {
+        "A": [],
+        "MX": [],
+        "NS": [],
+        "TXT": []
+    },
+    "subdomains": {
+        "discovered_subdomains": [
+            "http://www.github.com",
+            "http://api.github.com"
+        ]
+    }
+}
