@@ -38,7 +38,7 @@ Result is saved in:
 ---
 
 ## 📄 Sample Output (report.json)
-
+```bash
 {
   "whois": {
     "domain_name": "CLOUDFLARE.COM",
@@ -66,7 +66,7 @@ Result is saved in:
     ]
   }
 }
-
+```
 
 ---
 
